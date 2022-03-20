@@ -1,0 +1,10 @@
+body {
+  margin: 30px;
+  padding: 0;
+  background-color: blue;
+}
+h1 {
+  color: white;
+  font-size: 200px;
+  font-weight: 900px;
+}
